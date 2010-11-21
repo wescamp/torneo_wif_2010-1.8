@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: torneo_wif 2010\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-11-21 18:14+0100\n"
+"PO-Revision-Date: 2010-11-21 18:14+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [multiplayer]: id=torneo_wif_2010
+#: torneo_wif_2010/torneo_wif_2010.cfg:6
+msgid "Tournament W.I.F. 2010 (by Dret)"
+msgstr ""
+
+#. [side]: type=Silver Mage
+#: torneo_wif_2010/torneo_wif_2010.cfg:26
+msgid "good"
+msgstr ""
+
+#. [side]: type=Silver Mage
+#: torneo_wif_2010/torneo_wif_2010.cfg:49
+msgid "evil"
+msgstr ""
+
+#. [multiplayer]: id=torneo_wif_2010
+#: torneo_wif_2010/torneo_wif_2010.cfg:133
+msgid "Dimensional Vortex"
+msgstr ""
+
+#. [multiplayer]: id=torneo_wif_2010
+#: torneo_wif_2010/torneo_wif_2010.cfg:155
+msgid "Magic Source"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:190
+msgid "<span foreground='green'>Tactical Victory</span>"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:194
+msgid ""
+"\n"
+"<big>WINNER IS <span foreground='green'>$varWinnerName</span></big>\n"
+" \n"
+"<span foreground='orange'>$varWinnerName owns all six magic sources</span>"
+msgstr ""
+
+#. [unstore_unit]
+#: torneo_wif_2010/torneo_wif_2010.cfg:455
+msgid "Blink!"
+msgstr ""
+
+#. [objectives]
+#: torneo_wif_2010/torneo_wif_2010.cfg:573
+msgid "WIF Tournament 2010"
+msgstr ""
+
+#. [objective]: condition=win
+#: torneo_wif_2010/torneo_wif_2010.cfg:575
+msgid "Defeat your opponent or conquer the 6 magic Sources!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:594
+msgid "CAUTION!! Before starting playing: "
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:607
+msgid ""
+"\n"
+"<span foreground='red'>DID YOU SET THE GAME CORRECTLY?</span>\n"
+" \n"
+"<big>Check this Options:\n"
+" \n"
+"'Use map settings' MUST BE ENABLED\n"
+" \n"
+"'Show Haloing Effects' (in Display Preferences) MUST BE ENABLED\n"
+" \n"
+"'Observers' MUST BE DISABLED (with the exception expected in the rules, "
+"avaiable in the dedicated post in our forum)\n"
+" \n"
+"                   OTHERWISE                       \n"
+"            THE GAME WILL BE ANNULED</big>"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:615
+msgid "         IV° Tournament W.I.F. 2010"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:630
+msgid ""
+" \n"
+"<big>                    IV° Italian Tournament \n"
+"                     of Battle for Wesnoth</big>\n"
+" \n"
+"                                  organized by:\n"
+" \n"
+"<big>                                  W.I.F.\n"
+"              WESNOTH ITALIAN FORUM                    \n"
+"                 http://wif.altervista.org\n"
+" \n"
+" Map designer and original scenario coder: Dret\n"
+" WML enhancers and bug fixers: mich and Nobun\n"
+" Testers: Dead Eye, Luigit and baro_st\n"
+" Translator: RockScorpion</big>\n"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:636
+msgid "ISTRUCTIONS - Dimensional Vortices"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:648
+msgid ""
+" \n"
+"<big> REMEMBER:\n"
+" from turn 3 the DIMENSIONAL VORTICES will be open.\n"
+" They allow the quick shift to the other side of the map.\n"
+" So you can point more easily to the TACTICAL VICTORY.\n"
+" CAUTION: vortices will open first for the player\n"
+" number two; in this way the disadvantage of \n"
+" starting the game for second is balanced.\n"
+" If a unit after a teleporting movement, for missing \n"
+" space in the destination area, ends in a 'chasm' \n"
+" terrain and can't fly... it will be slained!</big>\n"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:655
+msgid "ISTRUCTIONS - Tactical Victory"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:661
+msgid ""
+" \n"
+"<big> REMEMBER:\n"
+" You can win the game without kill the enemy leader\n"
+" if you occupy all the 6 MAGIC SOURCES\n"
+" on the map.</big>\n"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:668
+msgid "ISTRUCTIONS - Elite Units"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: torneo_wif_2010/torneo_wif_2010.cfg:674
+msgid ""
+" \n"
+"<big> REMEMBER:\n"
+" The units that you see already positioned on the map are unique \n"
+" and SO UNRECRUITABLE. They are powerful units and represent\n"
+" the elite of you army: try to preserve them.</big>\n"
+msgstr ""
+
+#. [print]
+#: torneo_wif_2010/torneo_wif_2010.cfg:696
+msgid "The Dimensional Vortices are open!"
+msgstr ""
