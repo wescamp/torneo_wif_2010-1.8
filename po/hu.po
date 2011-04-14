@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: torneo_wif 2010\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-11-21 18:14+0100\n"
-"PO-Revision-Date: 2010-11-21 18:14+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2011-04-12 14:46+0100\n"
+"Last-Translator: Piere <piere-d-siorac@freemail.hu>\n"
 "Language-Team: none\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -15,32 +15,32 @@ msgstr ""
 #. [multiplayer]: id=torneo_wif_2010
 #: torneo_wif_2010/torneo_wif_2010.cfg:6
 msgid "Tournament W.I.F. 2010 (by Dret)"
-msgstr ""
+msgstr "Wesnoth Olasz Fórum Bajnokság 2010 (Dret)"
 
 #. [side]: type=Silver Mage
 #: torneo_wif_2010/torneo_wif_2010.cfg:26
 msgid "good"
-msgstr ""
+msgstr "jók"
 
 #. [side]: type=Silver Mage
 #: torneo_wif_2010/torneo_wif_2010.cfg:49
 msgid "evil"
-msgstr ""
+msgstr "gonoszak"
 
 #. [multiplayer]: id=torneo_wif_2010
 #: torneo_wif_2010/torneo_wif_2010.cfg:133
 msgid "Dimensional Vortex"
-msgstr ""
+msgstr "Dimenziókapu"
 
 #. [multiplayer]: id=torneo_wif_2010
 #: torneo_wif_2010/torneo_wif_2010.cfg:155
 msgid "Magic Source"
-msgstr ""
+msgstr "Mágikus forrás"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:190
 msgid "<span foreground='green'>Tactical Victory</span>"
-msgstr ""
+msgstr "<span foreground='green'>Taktikai Győzelem</span>"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:194
@@ -50,26 +50,31 @@ msgid ""
 " \n"
 "<span foreground='orange'>$varWinnerName owns all six magic sources</span>"
 msgstr ""
+"\n"
+"<big>A GYŐZTES <span foreground='green'>$varWinnerName</span></big>\n"
+" \n"
+"<span foreground='orange'>$varWinnerName elfoglalta a hat mágikus forrást</"
+"span>"
 
 #. [unstore_unit]
 #: torneo_wif_2010/torneo_wif_2010.cfg:455
 msgid "Blink!"
-msgstr ""
+msgstr "Villanás!"
 
 #. [objectives]
 #: torneo_wif_2010/torneo_wif_2010.cfg:573
 msgid "WIF Tournament 2010"
-msgstr ""
+msgstr "Wesnoth Olasz Fórum Bajnokság 2010"
 
 #. [objective]: condition=win
 #: torneo_wif_2010/torneo_wif_2010.cfg:575
 msgid "Defeat your opponent or conquer the 6 magic Sources!"
-msgstr ""
+msgstr "Öld meg az ellenfeledet, vagy foglald el a 6 mágikus forrást!"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:594
 msgid "CAUTION!! Before starting playing: "
-msgstr ""
+msgstr "VIGYÁZAT!! Mielött elkezdenél játszani:"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:607
@@ -89,11 +94,25 @@ msgid ""
 "                   OTHERWISE                       \n"
 "            THE GAME WILL BE ANNULED</big>"
 msgstr ""
+"\n"
+"<span foreground='red'>Rendesen állítottad be a játékot?</span>\n"
+" \n"
+"<big>A következőkre vigyázz:\n"
+" \n"
+"'AlapbeállításoK' BE KELL KAPCSOLNI\n"
+" \n"
+"'Haloing effektusok mutatása' (Képernyő beállítások) BE KELL KAPCSOLNI\n"
+" \n"
+"'Megfigyelők' KI KELL KAPCSOLNI (kivéve, ha a szabályok másképpen "
+"rendelkeznek)\n"
+" \n"
+"                   MÁSKÜLÖNBEN                       \n"
+"            A JÁTÉK SEMMIS</big>"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:615
 msgid "         IV° Tournament W.I.F. 2010"
-msgstr ""
+msgstr "        IV. Wesnoth Olasz Fórum Bajnokság 2010"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:630
@@ -113,11 +132,25 @@ msgid ""
 " Testers: Dead Eye, Luigit and baro_st\n"
 " Translator: RockScorpion</big>\n"
 msgstr ""
+" \n"
+"<big>                    IV. Olasz Harc Wesnothért\n"
+"                                             Bajnokság</big>\n"
+" \n"
+"                                  Szervezte:\n"
+" \n"
+"<big>                                  W.I.F.\n"
+"              WESNOTH OLASZ FÓRUM\n"
+"                 http://wif.altervista.org\n"
+" \n"
+" Térkép készítője és kódolója: Dret\n"
+" WML munkálatok és hibajavítók: mich and Nobun\n"
+"Tesztelők: Dead Eye, Luigit and baro_st\n"
+"Fordító: RockScorpion</big>\n"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:636
 msgid "ISTRUCTIONS - Dimensional Vortices"
-msgstr ""
+msgstr "SZABÁLYOK - Dimenziókapuk"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:648
@@ -134,11 +167,22 @@ msgid ""
 " space in the destination area, ends in a 'chasm' \n"
 " terrain and can't fly... it will be slained!</big>\n"
 msgstr ""
+" \n"
+"<big> EMLÉKEZTETŐÜL:\n"
+" a 3. körtől a Dimenziókapuk nyitva lesznek.\n"
+" Segítségükkel gyorsán átlkelhetsz a pálya másik oldalára.\n"
+" Így könnyebben arathatsz TAKTIKAI GYŐZELMET.\n"
+" VIGYÁZAT: a kapuk először a második játékosnak\n"
+" nyílnak meg, így egyensúlyozva ki, hogy\n"
+" nem ő kezd.\n"
+" Ha a teleportált egység egy olyan helyre érkezik,\n"
+" ahol szakadék van, és nem tud repülni,\n"
+" akkor az az egység meghal!</big>\n"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:655
 msgid "ISTRUCTIONS - Tactical Victory"
-msgstr ""
+msgstr "SZABÁLYOK - Taktikai győzelem"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:661
@@ -149,11 +193,16 @@ msgid ""
 " if you occupy all the 6 MAGIC SOURCES\n"
 " on the map.</big>\n"
 msgstr ""
+" \n"
+"<big> EMLÉKEZTETŐÜL:\n"
+" Megnyerheted a játékot az ellenfél vezérének megölése nélkül is,\n"
+" ha a hat MÁGIKUS FORRÁS mindegyikét\n"
+"elfoglalod.</big>\n"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:668
 msgid "ISTRUCTIONS - Elite Units"
-msgstr ""
+msgstr "SZABÁLYOK - Elit egységek"
 
 #. [message]: speaker=narrator
 #: torneo_wif_2010/torneo_wif_2010.cfg:674
@@ -164,8 +213,13 @@ msgid ""
 " and SO UNRECRUITABLE. They are powerful units and represent\n"
 " the elite of you army: try to preserve them.</big>\n"
 msgstr ""
+" \n"
+"<big> EMLÉKEZTETŐÜL:\n"
+" Az egységek, amik a térképen már el vannak helyezve, egyediek,\n"
+" így NEM LEHET TOBOROZNI ŐKET. Ezek az egységek\n"
+" erősek, ők képezik a sereged elitjét. Óvd meg őket!</big>\n"
 
 #. [print]
 #: torneo_wif_2010/torneo_wif_2010.cfg:696
 msgid "The Dimensional Vortices are open!"
-msgstr ""
+msgstr "A Dimenziókapuk nyitva vannak!"
